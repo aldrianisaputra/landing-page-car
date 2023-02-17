@@ -1,0 +1,19 @@
+.card{
+    background-color: #413B3B;
+    margin: 0 15px;
+
+}
+.card-body img{
+    width: 300px;
+
+}
+
+.coba{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+.card-body a{
+    width: 300px;
+}

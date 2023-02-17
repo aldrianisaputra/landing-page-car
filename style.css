@@ -1,0 +1,113 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar{
+    background-color: black;
+}
+.navbar-brand img{
+    width: 130px;
+    height: 130px;
+}
+.btn1{
+    font-size: 11px;
+}
+#home, #fastest, #type, #news, #content{
+    background-color: black; 
+}
+#content{
+    height: 135vh;
+}
+#home img{
+    width: 100%;
+    height: 600px;
+}
+.text{
+    padding-top: 20%;
+}
+.text h2{
+    font-size: 80px;
+}
+.btn{
+    font-size: 13px;
+    padding: 15px;
+}
+.btn1 button{
+    font-size: 6px;
+    padding: 8px;
+}
+.garis{
+    width: 150px;
+    height: 5px;
+    border-bottom: 2px solid #E5AE40;
+    position: relative;
+    margin: -5px auto;
+}
+/* .card{
+    background-color: #413B3B;
+}
+.card-body img{
+    margin-top: -40px;
+}
+.text-card{
+    font-size: 14px;
+}
+.card-body a{
+    width: 300px;
+}
+.card-body img{
+    width: 300px;
+} */
+.card{
+    background-color: #413B3B;
+    margin: 0 7px;
+}
+.card-body img{
+    width: 250px;
+}
+.coba{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.card-body a{
+    width: 300px;
+}
+.container-30{
+    margin: auto;
+}
+.container-30 .text1{
+    margin-left: 80px
+}
+.container-30 .text1 a{
+    margin-left: 150px;
+    color: #E5AE40;
+    text-decoration: none;
+}
+.gmbr img{
+    width: 700px;
+}
+.gmbr1 img{
+    width: 550px;
+    height: 310px;
+    margin-top: -30px;
+}
+.konten .card{
+    background-color: #DEDEDE;
+    width: 80%;
+    margin: auto;  
+}
+.row button{
+    color: #E5AE40;
+}
+#footer{
+    background-color: #E5AE40;
+}
+.list-icon a{
+    color: black;
+    font-size: 45px;    
+}
+.text-box4{
+    padding-left: 100px;
+}
+
+
